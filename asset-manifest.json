@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/heteto-login-url-api/static/css/main.72025050.css",
-    "main.js": "/heteto-login-url-api/static/js/main.40a66bb0.js",
+    "main.js": "/heteto-login-url-api/static/js/main.d6f8e155.js",
     "static/js/488.5cb6d2fa.chunk.js": "/heteto-login-url-api/static/js/488.5cb6d2fa.chunk.js",
     "index.html": "/heteto-login-url-api/index.html",
     "main.72025050.css.map": "/heteto-login-url-api/static/css/main.72025050.css.map",
-    "main.40a66bb0.js.map": "/heteto-login-url-api/static/js/main.40a66bb0.js.map",
+    "main.d6f8e155.js.map": "/heteto-login-url-api/static/js/main.d6f8e155.js.map",
     "488.5cb6d2fa.chunk.js.map": "/heteto-login-url-api/static/js/488.5cb6d2fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72025050.css",
-    "static/js/main.40a66bb0.js"
+    "static/js/main.d6f8e155.js"
   ]
 }
